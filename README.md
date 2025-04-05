@@ -1,5 +1,11 @@
 ## Hi there 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-aziz-jobayer-hasan-993bb52a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-aziz-jobayer-hasan-993bb52a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app /">
+  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/linkedin.svg" />
+</a>
+
 
 <!--
 **Aziz-Jobayer/Aziz-Jobayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
