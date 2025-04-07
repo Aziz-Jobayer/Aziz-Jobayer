@@ -2,7 +2,7 @@
 
 
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/muhammad-aziz-jobayer-hasan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aziz-jobayer-hasan/)
 
 <!--
 **Aziz-Jobayer/Aziz-Jobayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
